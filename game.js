@@ -32,7 +32,7 @@ var fight = function(enemyName) {
         break;
       }
     }
-
+ 
     // remove enemy's health by subtracting the amount set in the playerAttack variable
     enemyHealth = enemyHealth - playerAttack;
     console.log(
