@@ -1,1 +1,1 @@
-var playAgainConfirm = window.confirm("Would you like to play again?");
+function addTwoNumbers (number1, number2) {return number1 + number2};
